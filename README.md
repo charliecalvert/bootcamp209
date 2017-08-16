@@ -4,6 +4,6 @@ This is my first edit.
 
 This is my second version of my repository.
 
-- Oleo
+- OnlyOleo
 - Two
 - Three
